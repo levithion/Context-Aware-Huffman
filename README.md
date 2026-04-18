@@ -1,5 +1,7 @@
 # Context-Aware Huffman Coding
 
+🌍 **Live Demo:** [https://context-aware-huffman.streamlit.app](https://context-aware-huffman.streamlit.app)
+
 A Context-Aware Huffman Coding compressor and decompressor that improves upon standard Huffman coding by building per-context Huffman trees. Instead of relying on a single global frequency table, it tracks which tokens follow each context (the previous *N* tokens) and builds separate Huffman trees per context. This achieves better compression rates when token distributions vary significantly by context.
 
 ## Features
