@@ -1,4 +1,4 @@
-# Context-Aware Huffman Coding
+# Context-Aware Huffman Compressor/Decompressor
 
 🌍 **Live Demo:** [https://context-aware-huffman.streamlit.app](https://context-aware-huffman.streamlit.app)
 
